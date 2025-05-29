@@ -7,8 +7,8 @@ TerrainLayer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: sandy_gravel_02_layer
-  m_DiffuseTexture: {fileID: 2800000, guid: 5d001aa86b3d69c42a009bd769851d74, type: 3}
-  m_NormalMapTexture: {fileID: 2800000, guid: 43771ef57a678374297ef5ac56c207d2, type: 3}
+  m_DiffuseTexture: {fileID: 2800000, guid: 2638eeb612d9e4764bae77b4c180e76e, type: 3}
+  m_NormalMapTexture: {fileID: 2800000, guid: 2638eeb612d9e4764bae77b4c180e76e, type: 3}
   m_MaskMapTexture: {fileID: 0}
   m_TileSize: {x: 10, y: 10}
   m_TileOffset: {x: 0, y: 0}
