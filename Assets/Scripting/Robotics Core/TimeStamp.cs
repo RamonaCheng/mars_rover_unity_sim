@@ -1,6 +1,6 @@
 using System;
 using UnityEngine;
-using RosMessageTypes.BuiltinInterfaces;
+// using RosMessageTypes.BuiltinInterfaces;
 
 namespace Unity.Robotics.Core
 {
@@ -28,6 +28,7 @@ namespace Unity.Robotics.Core
             NanoSeconds = nsec;
         }
 
+        /*
         // Implicit conversion to ROS2 TimeMsg
         public static implicit operator TimeMsg(TimeStamp stamp)
         {
@@ -39,5 +40,6 @@ namespace Unity.Robotics.Core
         {
             return new TimeStamp(stamp.sec, stamp.nanosec);
         }
+        */
     }
 }
